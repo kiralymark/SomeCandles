@@ -1,0 +1,8 @@
+resolution = "1280 x 720"
+playerCount = "6"
+player1 = ""
+player2 = "null"
+player3 = "Player 3"
+player4 = "Player 4"
+player5 = "Player 5"
+player6 = "Player 6"
